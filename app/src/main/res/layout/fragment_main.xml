@@ -16,7 +16,7 @@
     <android.support.v7.widget.RecyclerView
         android:id="@+id/default_view"
         android:layout_width="match_parent"
-        android:layout_height="200dp" />
+        android:layout_height="match_parent" />
     <LinearLayout
         android:id="@+id/search_view"
         android:visibility="invisible"

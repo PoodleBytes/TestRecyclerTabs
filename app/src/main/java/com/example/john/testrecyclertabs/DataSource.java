@@ -6,7 +6,7 @@ public class DataSource extends ArrayList {
     private ArrayList<DataClass> DataSource = new ArrayList<>();
 
     public ArrayList getData() {
-        DataSource.add(new DataClass("Matthew", "News App Pt. 2", 1));
+        DataSource.add(new DataClass("Willie","Project 1",4));
         DataSource.add(new DataClass("Olivia", "News App Pt. 1", 2));
         DataSource.add(new DataClass("Chris", "Inventory", 3));
         DataSource.add(new DataClass("Rosario", "Tour Guide", 4));

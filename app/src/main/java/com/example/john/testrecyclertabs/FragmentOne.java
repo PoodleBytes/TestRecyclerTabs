@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 
 public class FragmentOne extends Fragment {
-    DataSource array_of_data = new DataSource();
+    DataSource array_of_data = new DataSource();//source is array of data
     ArrayList<DataClass> WorkingData = new ArrayList<>();
     DataAdapter adapter;
 

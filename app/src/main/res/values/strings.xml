@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestRecyclerTabs</string>
+    <string name="d1_name">Matthew</string>
+    <string name="name1">Bob</string>
+    <string name="project1">Name2</string>
+    <string name="id1">Name3</string>
+
 </resources>
